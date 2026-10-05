@@ -1047,7 +1047,7 @@ The project also demonstrates how notebook-based preprocessing logic can be sepa
 
 Data Science Student | Python | Machine Learning | Data Analytics
 
-GitHub: `zuhaibalisays`
+GitHub: `zuhaibalisayss`
 
 Kaggle: `zuhaibalisays`
 
